@@ -1,6 +1,10 @@
 # Tic-Tac-Toe
 Play a game of Tic-Tac-Toe on your terminal!
-![Image](https://github.com/user-attachments/assets/2aa9dd99-04d3-4f94-beea-1db48e6d128b)
+<p align="left">
+  <img src="TicTacToeGameplay-ezgif.com-crop.gif" alt="GIF Description", width="45%">
+</p>
 Code:
-![Image](https://github.com/user-attachments/assets/81104a4b-c5c8-4be6-a8b2-e4b94e040806)
+<p align="left">
+  <img src="TicTacToeGameplay-ezgif.com-crop.gif" alt="GIF Description", width="60%">
+</p>
 Learning: input(), frontend vs. backend, UI, GitHub README, ezgif
