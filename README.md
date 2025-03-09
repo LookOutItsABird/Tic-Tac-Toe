@@ -17,11 +17,21 @@ Play a game of Tic-Tac-Toe on your terminal!
  - Github README (formatting text, images, and GIFs)
 
 ## Random Experimentation
-<p align="center">
-  <span style="font-size:20px; font-family:'Times New Roman', Times, serif;">
-    Centered Times New Roman Text
-  </span>
-</p>
+**bold** *italic* ~~strikethrough~~ inline code is here ->`who, me?`
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
+
+- [ ] Hold on a minute...
+- [ ] I'm getting there...
+- [x] Done!
+
+Somebody was talking about footnotes[^1].
+[^1]: You'll find it eventually.
+
+> blockquote
 
 ```python
 import shenanigans as hehehe
@@ -30,10 +40,25 @@ def munchables(pastries):
   return hehehe.guess(what_this_is)
 ```
 <p float="center">
-  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/mario.gif" width="45%"/>
-  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/zelda.gif" width="45%"/>
+  <img src="GXKdxaD.png" width="45%"/>
+  <img src="360_F_317807766_aWfoR2kUsGlNSWofm3lvgTvd0zhvMrem.jpg" width="45%"/>
 </p>
 <p float="center">
-  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/mario.gif" width="45%"/>
-  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/zelda.gif" width="45%"/>
+  <img src="Screenshot 2025-03-09 154217.png" width="45%"/>
+  <img src="world-food-day-2020.png" width="45%"/>
 </p>
+😲😁😎
+
+🚀🌏
+
+<p align="center">Github unfortunately does not support
+  custom fonts, colors, or sizes for text
+</p>
+
+1. Hello
+2. Hi
+3. Yo
+
+- What
+- about
+- bullet points?
