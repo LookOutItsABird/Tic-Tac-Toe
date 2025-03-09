@@ -29,3 +29,11 @@ import shenanigans as hehehe
 def munchables(pastries):
   return hehehe.guess(what_this_is)
 ```
+<p float="center">
+  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/mario.gif" width="45%"/>
+  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/zelda.gif" width="45%"/>
+</p>
+<p float="center">
+  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/mario.gif" width="45%"/>
+  <img src="https://github.com/amaroo2006/NES-Emulator/blob/main/gifs/zelda.gif" width="45%"/>
+</p>
