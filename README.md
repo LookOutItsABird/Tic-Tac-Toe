@@ -11,10 +11,10 @@ Play a game of Tic-Tac-Toe on your terminal!
 </p>
 
 ### Learning Overview
- - input()
+ - input() / functions / for loops / indexing / f"{}"
  - frontend vs. backend
- - UI
  - Github README (formatting text, images, and GIFs)
+ - Editing repository via Git and Terminal
 
 ## Random Experimentation
 **bold** *italic* ~~strikethrough~~ inline code is here ->`who, me?`
