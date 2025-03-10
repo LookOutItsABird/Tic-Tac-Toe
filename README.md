@@ -2,12 +2,12 @@
 ### Description
 Play a game of Tic-Tac-Toe on your terminal!
 <p align="left">
-  <img src="TicTacToeGameplay-ezgif.com-crop.gif" alt="GIF Description", width="75%">
+  <img src="images/TicTacToeGameplay-ezgif.com-crop.gif" alt="GIF Description", width="75%">
 </p>
 
 ### Code Overview
 <p align="left">
-  <img src="TicTacToeCodeOverview-ezgif.com-video-to-gif-converter (1).gif" alt="GIF Description", width="100%">
+  <img src="images/TicTacToeCodeOverview-ezgif.com-video-to-gif-converter (1).gif" alt="GIF Description", width="100%">
 </p>
 
 ### Learning Overview
@@ -40,12 +40,12 @@ def munchables(pastries):
   return hehehe.guess(what_this_is)
 ```
 <p float="center">
-  <img src="GXKdxaD.png" width="45%"/>
-  <img src="360_F_317807766_aWfoR2kUsGlNSWofm3lvgTvd0zhvMrem.jpg" width="45%"/>
+  <img src="images/GXKdxaD.png" width="45%"/>
+  <img src="images/360_F_317807766_aWfoR2kUsGlNSWofm3lvgTvd0zhvMrem.jpg" width="45%"/>
 </p>
 <p float="center">
-  <img src="Screenshot 2025-03-09 154217.png" width="45%"/>
-  <img src="world-food-day-2020.png" width="45%"/>
+  <img src="images/Screenshot 2025-03-09 154217.png" width="45%"/>
+  <img src="images/world-food-day-2020.png" width="45%"/>
 </p>
 😲😁😎
 
